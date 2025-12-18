@@ -1424,7 +1424,7 @@ span{
     .yep{
         align-items: center;
         float: right;
-        margin-right: -240px;
+        margin-right: -450px;
         margin-top: 200px;
     }
     .label {
@@ -1528,18 +1528,16 @@ span{
     .words span{
         font-size: 30px;
     }
-    .second-page{
-    }
     .line-container {
         display: flex;
         justify-content: center; 
         align-items: center;
         height: 100px;
         width: 100%;
-        padding-left: 150px;
+        padding-left: 230px;
     }
     .tiny-line {
-        width: 1500px;
+        width: 2000px;
         height: 1px; 
         background-color: rgb(255, 255, 255); 
         align-items: center;
@@ -1549,11 +1547,12 @@ span{
         align-items: center;
     }
     .general-icon{
-        font-size: 40px;
+        font-size: 30px;
         display: flex;
         align-items: center;
         color: rgb(255, 255, 255);
         gap: 30px;
+        padding-left: 11.5px;
     }
     .white-background{
         background-color: white;
